@@ -1,0 +1,72 @@
+.jumbotron {
+		background: url("../images/bg.jpeg");
+		background-size: cover;
+	}
+
+	.navbar {
+		background-color: transparent;
+		border: none;
+		position: absolute;
+		width: 100%;
+
+	}
+
+	.navbar-header img {
+
+		max-width: 16em;
+	}
+
+	.encabezado {
+
+		color: white;
+		clear: both;
+		font-family: tahoma; 
+		text-align: center;
+	}
+
+		.boton1,
+		.boton2,
+		.boton3 {
+			color: white;
+			background-color: #0099ff;
+			height: 30px;
+			width: 120px;
+			border: none;
+			border-radius: 5px;
+		}
+
+		.descripcion {
+			color: white; 
+			font-family: calibri;
+			text-align: center;
+		}
+
+		.foot {
+
+			background-color: black;
+			height: 60px;
+			color: white;
+			font-family: calibri;
+			padding: 25px;
+			clear: both;
+		}
+		
+		.seccion3 {
+
+			font-family: calibri;
+			text-align: center;
+		}
+
+		.seccion2 {
+			text-align: center;
+		}
+
+		.seccion3 p {
+
+			font-size: 12px;
+		}
+
+		.last {
+			padding-top: 5%;
+			padding-bottom: 5%;
+		}
